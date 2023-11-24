@@ -1,6 +1,8 @@
 
 🔭 Hoje trabaho com front-end
+
 🌱 Estou aprendendo 
+
 😄 Pronomes: ela/dela
 
 <div style="text-align: center; padding: 30px; background-color: #f0f0f0; border-radius: 10px;">
