@@ -1,7 +1,5 @@
 
-🔭 Hoje trabaho com front-end
-
-🌱 Estou aprendendo 
+🔭 Hoje trablho com front-end
 
 😄 Pronomes: ela/dela
 
