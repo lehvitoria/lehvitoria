@@ -1,10 +1,10 @@
 
-🔭 Hoje trablho com front-end
+🔭 Hoje trabalho com front-end
 
 😄 Pronomes: ela/dela
 
 <div style="text-align: center; padding: 30px; background-color: #f0f0f0; border-radius: 10px;">
-  <h1 style="color: #be185d; font-family: 'Arial', sans-serif;">Olá, eu sou Leticia Vitoria 👋</h1>
+  <h1 style="color: #be185d; font-family: 'Arial', sans-serif;">Olá, eu sou Leticia Vitória 👋</h1>
   <p style="font-size: 18px; color: #333;">Bem-vindo ao meu perfil! Sou uma desenvolvedora junior apaixonada por código e café ☕.</p>
   
   <div style="display: flex; justify-content: space-around; margin-top: 20px;">
