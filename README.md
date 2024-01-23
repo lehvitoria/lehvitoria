@@ -11,10 +11,10 @@
   <div style="display: flex; justify-content: space-around; margin-top: 20px;">
     <div style="flex: 1; padding: 10px; background-color: #66cc66; border-radius: 8px; text-align: center;">
       <h3 style="color: #ffff;">🚀 Technologies:</h3>
-      <p style="color: #fff;">JavaScript
-                              HTML
-                              Node.js
-                              React</p>
+      <p style="color: #fff;">• JavaScript
+                              • HTML
+                              • Node.js
+                              • React</p>
        <p>May the code force be with you! 🚀</p>
        <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Gatinho Fofo">
     </div>
